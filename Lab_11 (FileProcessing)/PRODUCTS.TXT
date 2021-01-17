@@ -1,0 +1,5 @@
+AAAA   20
+BBBB   25
+CCCC   18
+DDDD   20
+EEEE   35
